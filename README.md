@@ -1,6 +1,11 @@
 # 2023-1-Flutter-Study
 APPS 2023-1학기 플러터 스터디 내용을 기록하고 과제를 제출하는 저장소입니다.<br><br>
 
+## 스터디 멤버
+- 스터디장: [신진영](https://github.com/Jjinyshin)
+- 스터디원: [김수현](https://github.com/suuxxirr), [하고은](https://github.com/hagoeun0119)
+
+
 ## 스터디 규칙
 - 매주 **수요일 밤 11시 59분 이전**까지 해당 주 학습내용(내용 정리, 실습 코드) 및 과제 PR을 보냅니다.
   - 만약 이전 과제의 수정 요청이 들어왔다면 함께 수정하여 제출합니다.
@@ -46,3 +51,4 @@ APPS 2023-1학기 플러터 스터디 내용을 기록하고 과제를 제출하
 
 ## 스터디 자료
 - 코드팩토리의 플러터 프로그래밍
+- [소스코드](https://github.com/codefactory-co/golden-rabbit-flutter-novice)

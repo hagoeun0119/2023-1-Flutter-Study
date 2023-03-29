@@ -15,4 +15,5 @@
     
     add(a: 1, b: 2)
     ```
-    
+- Row위젯, Column위젯은 각각의 mainaxis 방향으로 최대한 크기를 차지하고 반대 axis는 최소한 크기를 차지한다.
+  - 따라서 둘 다 MainAxisAlignment.center를 하면 가로, 세로 모두 가운데 정렬이 가능하다.

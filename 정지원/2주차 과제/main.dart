@@ -18,27 +18,24 @@ class SplashScreen extends StatelessWidget {
           child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Column(mainAxisAlignment: MainAxisAlignment.center,
+              Column(
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Image.asset('assets/AppsLogo.png',
+                  Image.asset(
+                    'assets/AppsLogo.png',
                     width: 200,
                   ),
                   const CircularProgressIndicator(
                     valueColor: AlwaysStoppedAnimation(Colors.pinkAccent),
-                    backgroundColor: Colors.grey, strokeWidth: 10.0,)
+                    backgroundColor: Colors.grey,
+                    strokeWidth: 10.0,
+                  )
                 ],
               ),
-
-
             ],
-
-
           ),
-
-
         ),
       ),
     );
   }
 }
-
